@@ -1,7 +1,5 @@
 .logo{
-    height: 40px;
     max-width: 168px;
-
 }
 
   @media (max-width: 800px) {
@@ -9,6 +7,7 @@
       max-width: 105px;
     }
   }
+  
   
   .menu {
     width: 100%;
@@ -27,7 +26,7 @@
     padding-right: 5%;
   
     background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid var(--vermelho);
   }
   body {
     --bodyPaddingTop: 94px;
